@@ -1,4 +1,4 @@
-# start
+# Start
 
 Get started with git
 
